@@ -3,6 +3,8 @@
 ## Overview
 This project, completed as part of the IE6400 Foundations of Data Analytics course, was focused on leveraging RFM (Recency, Frequency, Monetary) Analysis for effective customer segmentation. Conducted from September to December 2023, the project aimed to gain valuable insights into customer behavior to enhance marketing and customer engagement strategies.
 
+Dataset used: https://www.kaggle.com/datasets/carrie1/ecommerce-data
+
 ## Objectives
 - To analyze customer data using RFM Analysis for detailed customer segmentation.
 - To gain insights into customer purchasing patterns, frequencies, and monetary contributions.
